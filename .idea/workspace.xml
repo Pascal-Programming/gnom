@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c2786f5-dd7c-4c12-935e-32806957510e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.dev" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/.env.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/.env.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/assets/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/assets/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/assets/controllers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/assets/controllers/csrf_protection_controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/assets/controllers/hello_controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/assets/styles/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/bin/console" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/bin/phpunit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/compose.override.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/bundles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/asset_mapper.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/cache.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/csrf.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/debug.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/doctrine.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/doctrine_migrations.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/mailer.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/messenger.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/monolog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/notifier.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/routing.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/security.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/translation.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/twig.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/validator.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/packages/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/preload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/routes.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/routes/framework.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/routes/security.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/routes/web_profiler.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/config/services.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/importmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/migrations/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/phpunit.xml.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/src/Controller/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/src/Entity/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/src/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/src/Repository/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/symfony.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/templates/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/tests/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gnom/translations/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/local/Cellar/php/8.3.9/bin/php" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2twYyHlunVYktRjUW2DcNucEksq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/pascal/programming/training/Gnom",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PS-241.18034.69" />
+        <option value="bundled-php-predefined-ba97393d7c68-48a1a656d44e-com.jetbrains.php.sharedIndexes-PS-241.18034.69" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c2786f5-dd7c-4c12-935e-32806957510e" name="Changes" comment="" />
+      <created>1741264857492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741264857492</updated>
+      <workItem from="1741264858759" duration="324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
